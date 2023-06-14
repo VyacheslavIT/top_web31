@@ -1,0 +1,398 @@
+.footer{
+    position: absolute;
+    width: 1110px;
+    height: 295px;
+    left: 405px;
+    top: 4881px;
+    /* border: 1px solid black;     */
+}
+
+.Полезные_ссылки{
+position: absolute;
+/* width: 200px; */
+height: 25px;
+left: 405px;
+top: 4881px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+}
+
+.Доставка2{
+position: absolute;
+/* width: 63px; */
+height: 21px;
+left: 405px;
+top: 4946px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.Оплата{
+position: absolute;
+/* width: 51px; */
+height: 21px;
+left: 405px;
+top: 4982px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.Акции{
+position: absolute;
+/* width: 40px; */
+height: 21px;
+left: 405px;
+top: 5018px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+color: #333333;
+}
+
+.Политика_конфиденциальности{
+position: absolute;
+/* width: 207px; */
+height: 21px;
+left: 405px;
+top: 5054px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+    
+}
+
+.line6{
+position: absolute;
+width: 255px;
+height: 0px;
+left: 405px;
+top: 4931px;
+border: 1px solid #333333;    
+}
+
+.оплата{
+position: absolute;
+width: 79px;
+height: 25px;
+left: 690px;
+top: 4881px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;    
+}
+
+.line7{
+position: absolute;
+width: 255px;
+height: 0px;
+left: 690px;
+top: 4931px;
+border: 1px solid #333333;
+
+}
+
+.info{
+position: absolute;
+width: 255px;
+height: 63px;
+left: 690px;
+top: 4946px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;    
+}
+
+.visa{
+position: absolute;
+width: 45px;
+height: 30px;
+left: 690px;
+top: 5030px;
+    
+}
+
+.master_card{
+position: absolute;
+width: 45px;
+height: 30px;
+left: 755px;
+top: 5030px;
+}
+
+.контакты{
+position: absolute;
+width: 104px;
+height: 25px;
+left: 975px;
+top: 4881px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+    
+}
+
+.line8{
+position: absolute;
+width: 255px;
+height: 0px;
+left: 975px;
+top: 4931px;
+border: 1px solid #333333;
+
+}
+
+.namber{
+position: absolute;
+width: 255px;
+height: 21px;
+left: 1015px;
+top: 4946px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.namber2{
+position: absolute;
+width: 255px;
+height: 21px;
+left: 1015px;
+top: 4982px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.mail{
+position: absolute;
+width: 255px;
+height: 21px;
+left: 1015px;
+top: 5018px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.phone_1{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 975px;
+top: 4960px;
+}
+
+.phone_2{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 975px;
+top: 4995px;
+
+}
+
+.mail_1{
+position: absolute;
+width: 20px;
+height: 17px;
+left: 975px;
+top: 5035px;
+    
+}
+.year{
+position: absolute;
+width: 139px;
+height: 21px;
+left: 405px;
+top: 5133px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.Договор_публичной{
+position: absolute;
+width: 192px;
+height: 21px;
+left: 729px;
+top: 5133px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+    
+}
+
+.Контрагентам_1{
+position: absolute;
+width: 93px;
+height: 21px;
+left: 1106px;
+top: 5133px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+}
+
+.Figma{
+position: absolute;
+/* width: 130px; */
+height: 21px;
+left: 1380px;
+top: 5133px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 150%;
+text-align: right;
+text-decoration-line: underline;
+color: #333333;
+}
+
+.line10{
+position: absolute;
+width: 1110px;
+height: 0px;
+left: 405px;
+top: 5135px;
+border: 1px solid #333333;
+}
+
+.социальные_сети{
+position: absolute;
+/* width: 198px; */
+height: 25px;
+left: 1260px;
+top: 4881px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 140%;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+}
+
+.line9{
+position: absolute;
+width: 255px;
+height: 0px;
+left: 1260px;
+top: 4931px;
+border: 1px solid #333333;
+}
+
+.Lorem_2{
+position: absolute;
+width: 255px;
+height: 63px;
+left: 1260px;
+top: 4946px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #333333;
+
+}
+
+.youtube{
+position: absolute;
+width: 26px;
+height: 18px;
+left: 1262px;
+top: 5031px;    
+}
+
+.vk_2{
+position: absolute;
+width: 24px;
+height: 15px;
+left: 1308px;
+top: 5031px;    
+
+}
+
+.facebook_1{
+position: absolute;
+width: 13px;
+height: 18px;
+left: 1352px;
+top: 5031px;
+    
+}
+
+.telegram_1{
+position: absolute;
+width: 24px;
+height: 19px;
+left: 1382px;
+top: 5031px;
+}
+
+.e_1{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 1428px;
+top: 5031px;
+    
+}
+
+
+
+
+
+
+

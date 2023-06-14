@@ -1,0 +1,359 @@
+.first-screen{
+
+position: absolute;
+width: 1920px;
+height: 950px;
+left: 0px;
+top: 0px;
+border: 1px solid white;
+ 
+}
+
+
+.bgc{
+
+
+position: absolute;
+width: 1920px;
+height: 950px;
+left: 0px;
+top: 0px;
+background:url(bgc.png);
+
+}
+
+
+.top-line{
+
+position: absolute;
+width: 1110px;
+height: 52px;
+left: 405px;
+top: 25px;
+/* border: 1px solid white; */
+}
+
+.logo{
+
+position: absolute;
+width: 216px;
+height: 52px;
+left: 852px;
+top: 25px;
+    
+}
+
+.text{
+
+position: absolute;
+width: 730px;
+height: 49px;
+left: 595px;
+top: 600px;
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+
+.horizontal-separator{
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 830px;
+border: 1px solid #FFFFFF;
+
+}
+
+
+.button-1{
+
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 35px;
+gap: 10px;
+position: absolute;
+width: 261px;
+height: 51px;
+left: 830px;
+top: 699px;
+background: #333333;
+border: 1px solid #FFFFFF;
+}
+
+.text_2{
+ 
+font-size: 17px;
+font-weight: 500;
+font-family: sans-serif;
+font-style: normal;
+text-transform: uppercase;
+color: #FFFFFF;
+letter-spacing: 0.1em;
+flex: none;
+order: 0;
+flex-grow: 0;
+line-height: 21px;
+text-align: center;
+}
+
+.first-screen__brands{
+position: absolute;
+width: 1110px;
+height: 60px;
+left: 405px;
+top: 860px;
+/* border: 1px solid white; */
+
+}
+
+.item1{
+
+position: absolute;
+width: 160px;
+height: 60px;
+left: 405px;
+top: 860px;
+
+
+}
+
+.item2{
+
+position: absolute;
+width: 160px;
+height: 60px;
+left: 595px;
+top: 860px;
+     
+}
+
+
+.item3{
+position: absolute;
+width: 160px;
+height: 60px;
+left: 785px;
+top: 860px;
+
+}
+
+.item4{
+position: absolute;
+width: 160px;
+height: 60px;
+left: 975px;
+top: 860px;
+
+}    
+
+.item5{
+position: absolute;
+width: 160px;
+height: 60px;
+left: 1165px;
+top: 860px;
+
+}
+
+.item6{
+
+position: absolute;
+width: 160px;
+height: 60px;
+left: 1355px;
+top: 860px;
+}
+
+.line1{
+
+position: absolute;
+width: 60px;
+height: 0px;
+left: 548px;
+top: 890px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.line2{
+position: absolute;
+width: 60px;
+height: 0px;
+left: 740px;
+top: 890px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.line3{
+position: absolute;
+width: 60px;
+height: 0px;
+left: 929px;
+top: 890px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.line4{
+position: absolute;
+width: 60px;
+height: 0px;
+left: 1119px;
+top: 890px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+.line5{
+position: absolute;
+width: 60px;
+height: 0px;
+left: 1308px;
+top: 890px;
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+}
+
+.top-line__column-left{
+
+position: absolute;
+width: 321px;
+height: 21px;
+left: 405px;
+top: 43px;
+border: 1px solid rgb(248, 248, 248);
+}
+
+.Контрагентам{
+position: absolute;
+width: 93px;
+height: 21px;
+left: 405px;
+top: 28px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #FFFFFF;
+
+}
+
+.Дизайнерам{
+position: absolute;
+width: 84px;
+height: 21px;
+left: 538px;
+top: 28px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #FFFFFF;
+
+}
+
+.Вакансии{
+
+position: absolute;
+width: 64px;
+height: 21px;
+left: 662px;
+top: 28px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+color: #FFFFFF;
+}
+
+.search{
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1167px;
+top: 42px;
+
+
+}
+
+.поиск{
+
+position: absolute;
+width: 41px;
+height: 21px;
+left: 1204px;
+top: 28px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+text-align: right;
+color: #FFFFFF;
+}
+
+.man{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1448px;
+top: 41px;
+
+}
+
+.like{
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 1497px;
+top: 43px;
+}
+
+.Регистрация{
+position: absolute;
+width: 123px;
+height: 21px;
+left: 1285px;
+top: 28px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+text-align: right;
+color: #FFFFFF;
+
+}
+
+.brl{
+
+position: absolute;
+width: 19.96px;
+height: 19.9px;
+left: 867.18px;
+top: 42.91px;
+}
+
+.brl2{
+
+position: absolute;
+width: 19.96px;
+height: 19.9px;
+left: 1031.85px;
+top: 42.91px;
+
+}
+

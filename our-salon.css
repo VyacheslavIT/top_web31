@@ -1,0 +1,90 @@
+.salon{
+position: absolute;
+width: 1920px;
+height: 541px;
+left: 0px;
+top: 2021px;
+background: url(img/salon.png)
+
+}
+
+.что_выбрать{
+position: absolute;
+width: 350px;
+height: 29px;
+left: 773px;
+top: 2084px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 27px;
+line-height: 140%;
+text-align: center;
+color: #FFFFFF;
+}
+
+.Lorem{
+position: absolute;
+width: 730px;
+height: 100px;
+left: 595px;
+top: 2251px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+text-align: center;
+color: #FFFFFF;
+
+}
+
+.Москва{
+position: absolute;
+width: 540px;
+height: 41px;
+left: 690px;
+top: 2137px;
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+text-align: center;
+color: #FFFFFF;    
+}
+
+.наши_салоны{
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 35px;
+gap: 10px;
+    
+position: absolute;
+width: 224px;
+height: 51px;
+left: 848px;
+top:2436px;
+background: #FFFFFF;
+border: 1px solid #333333;
+}
+
+.наши_салоны_text{
+width: 154px;
+height: 21px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}

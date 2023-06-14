@@ -1,0 +1,147 @@
+.blog{
+position: absolute;
+width: 1110px;
+height: 626px;
+left: 405px;
+top: 2682px;
+/* border: 1px solid black;     */
+}
+
+.Полезные_статьи{
+position: absolute;
+width: 350px;
+height: 29px;
+left: 785px;
+top: 2682px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #333333;
+
+}
+
+.Лучшие_советы{
+position: absolute;
+width: 1110px;
+height: 41px;
+left: 405px;
+top: 2726px;
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+text-align: center;
+color: #333333;
+
+}
+
+.blog_item1{
+position: absolute;
+width: 350px;
+height: 370px;
+left: 405px;
+top: 2827px;
+
+}
+
+.blog_item2{
+position: absolute;
+width: 350px;
+height: 370px;
+left: 785px;
+top: 2827px;
+}
+
+.blog_item3{
+position: absolute;
+width: 350px;
+height: 370px;
+left: 1165px;
+top: 2827px;
+}
+
+.выбрать_часы{
+position: absolute;
+width: 154px;
+height: 87px;
+left: 503px;
+top: 3055px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #FFFFFF;
+z-index: 7;    
+}
+
+.Запонки_для_мужа{
+position: absolute;
+width: 204px;
+height: 87px;
+left: 858px;
+top: 3055px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #FFFFFF;
+z-index: 7;
+}
+
+.Как_выбрать{
+position: absolute;
+width: 206px;
+height: 87px;
+left: 1237px;
+top: 3055px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #FFFFFF;
+z-index: 7;
+}
+
+.blog_button{
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 35px;
+gap: 10px;
+position: absolute;
+width: 255px;
+height: 51px;
+left: 832px;
+top: 3257px;
+background: #333333;
+border: 1px solid #FFFFFF;
+    
+}
+
+.наш_блог{
+/* width: 185px; */
+height: 21px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;    
+}

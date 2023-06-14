@@ -1,0 +1,108 @@
+.gallery{
+    position: absolute;
+    width: 1110px;
+    height: 745px;
+    left: 405px;
+    top: 3428px;
+    /* border: 1px solid black;     */
+}
+
+.jewerly{
+position: absolute;
+width: 350px;
+height: 29px;
+left: 785px;
+top: 3428px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #333333;
+}
+
+.социальных_сетях{
+position: absolute;
+width: 1110px;
+height: 41px;
+left: 405px;
+top: 3472px;
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+text-align: center;
+color: #333333;    
+}
+
+.gallery__image_1{
+position: absolute;
+width: 278px;
+height: 300px;
+left: 960px;
+top: 3573px;   
+}
+
+.gallery__image_2{
+position: absolute;
+width: 278px;
+height: 300px;
+left: 405px;
+top: 3873px;
+
+}
+
+.gallery__image_3{
+position: absolute;
+width: 277px;
+height: 300px;
+left: 1238px;
+top: 3573px;    
+}
+.gallery__image_4{
+position: absolute;
+width: 277px;
+height: 300px;
+left: 683px;
+top: 3873px;   
+}
+
+.img_hover1{
+position: absolute;
+width: 555px;
+height: 300px;
+left: 405px;
+top: 3573px;
+background:url(img/img--hover1.png)
+   
+}
+
+.Rectangle_1{
+position: absolute;
+width: 555px;
+height: 300px;
+left: 960px;
+top: 3873px;  
+background: url(img/Rectangle_1.png);  
+}
+
+.play1{
+position: absolute;
+width: 80px;
+height: 80px;
+left: 642px;
+top: 3683px;
+}
+
+.play2{
+position: absolute;
+width: 80px;
+height: 80px;
+left: 1198px;
+top: 3983px;
+
+}
+
+

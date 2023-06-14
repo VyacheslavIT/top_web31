@@ -1,0 +1,419 @@
+.second-screen{
+position: absolute;
+width: 1110px;
+height: 851px;
+left: 405px;
+top: 1050px;
+/* border: 1px solid black; */
+    
+    }
+
+
+.К_мероприятиям{
+position:absolute;
+width: 350px;
+height: 29px;
+left: 785px;
+top: 1050px;
+font-family: 'Gilroy';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #333333;   
+    }
+
+.красота_здесь{
+position: absolute;
+width: 540px;
+height: 41px;
+left: 690px;
+top: 1094px;
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+text-align: center;
+color: #333333;
+     }
+
+.Rectangle3{
+position: absolute;
+width: 165px;
+height: 61px;
+left: 405px;
+top: 1195px;
+background: #333333;
+
+} 
+.Свадьба{
+position: absolute;
+width: 92px;
+height: 21px;
+left: 438px;
+top: 1195px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+z-index: 7;
+
+}
+
+.Rectangle3_1{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 594px;
+top: 1201px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+
+}
+
+.Rectangle3_2{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 588px;
+top: 1195px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;    
+}
+
+.МУЖУ{
+position: absolute;
+width: 56px;
+height: 21px;
+left: 639px;
+top: 1195px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+z-index: 7;
+    
+}
+
+.Rectangle3_3{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 783px;
+top: 1201px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+
+.Rectangle3_4{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 777px;
+top: 1195px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+
+.ЖЕНЕ{
+position: absolute;
+width: 53px;
+height: 21px;
+left: 833px;
+top: 1195px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+z-index: 7;
+
+}
+
+.Rectangle3_5{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 972px;
+top: 1201px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+
+}
+
+.Rectangle3_6{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 966px;
+top: 1195px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+
+.партнеру{
+position: absolute;
+width: 99px;
+height: 21px;
+left: 999px;
+top: 1195px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+z-index: 7;
+}
+
+.Rectangle3_7{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 1161px;
+top: 1201px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+
+.Rectangle3_8{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 1155px;
+top: 1195px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+.коллекции{
+position: absolute;
+width: 120px;
+height: 21px;
+left: 1178px;
+top: 1195px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;  
+z-index: 7;  
+}
+.Rectangle3_9{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 1350px;
+top: 1201px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+.Rectangle3_10{
+box-sizing: border-box;
+position: absolute;
+width: 165px;
+height: 55px;
+left: 1344px;
+top: 1195px;
+background: #F9F9F9;
+border: 1px solid #D6D6D6;
+}
+.редкость{
+position: absolute;
+width: 103px;
+height: 21px;
+left: 1376px;
+top: 1195px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #333333;
+z-index: 7;
+}
+
+.кольца{
+position: absolute;
+width: 350px;
+height: 280px;
+left: 405px;
+top: 1311px;
+
+}
+
+.кольца_txt{
+position: absolute;
+width: 106px;
+height: 28px;
+left: 527px;
+top:1509px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.запонки{
+position: absolute;
+width: 350px;
+height: 280px;
+left: 405px;
+top: 1621px;
+}
+
+.запонки_txt{
+position: absolute;
+width: 126px;
+height: 28px;
+left: 517px;
+top: 1814px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.серьги{
+position: absolute;
+width: 350px;
+height: 280px;
+left: 785px;
+top: 1311px;
+}
+
+.серьги_txt{
+position: absolute;
+width: 99px;
+height: 28px;
+left: 911px;
+top: 1509px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.браслеты{
+position: absolute;
+width: 350px;
+height: 280px;
+left: 785px;
+top: 1621px;
+}
+
+.браслеты_txt{
+position: absolute;
+width: 137px;
+height: 28px;
+left: 892px;
+top: 1814px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.подвески{
+position: absolute;
+width: 350px;
+height: 280px;
+left: 1165px;
+top: 1311px;
+}
+
+.подвески_txt{
+position: absolute;
+width: 144px;
+height: 28px;
+left: 1268px;
+top: 1509px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}
+
+.часы{
+position: absolute;
+width: 350px;
+height: 280px;
+left: 1165px;
+top: 1621px;
+}
+
+.часы_txt{
+position: absolute;
+width: 74px;
+height: 28px;
+left: 1303px;
+top: 1814px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+}

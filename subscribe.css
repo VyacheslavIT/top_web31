@@ -1,0 +1,215 @@
+.subscribe{
+position: absolute;
+width: 1920px;
+height: 478px;
+left: 0px;
+top: 4323px;
+background: url(img/fon_subscribe.png);
+       
+}
+
+.Полезные_советы{
+position: absolute;
+width: 920px;
+height: 29px;
+left: 500px;
+top: 4423px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 140%;
+text-align: center;
+color: #FFFFFF;
+}
+
+.Эксклюзивная_рассылка{
+position: absolute;
+width: 1110px;
+height: 41px;
+left: 405px;
+top: 4467px;
+font-family: 'Noto Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.Rec_1{
+box-sizing: border-box;
+position: absolute;
+width: 448px;
+height: 113px;
+left: 880px;
+top: 4568px;
+border: 1px solid #FFFFFF;
+}
+
+.Rec_2{
+position: absolute;
+width: 418px;
+height: 85px;
+left: 895px;
+top: 4582px;
+background: #FFFFFF;
+}
+
+.Rec_3{
+box-sizing: border-box;
+position: absolute;
+width: 200px;
+height: 45px;
+left: 917px;
+top: 4602px;
+background: #FFFFFF;
+border: 1px solid #D6D6D6;
+}
+
+.Ваш_e-mail{
+position: absolute;
+/* width: 93px; */
+height: 16px;
+left: 937px;
+top: 4604px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+ color: rgba(51, 51, 51, 0.5);
+}
+
+.button_3{
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 14px 35px;
+gap: 10px;
+position: absolute;
+width: 159px;
+height: 45px;
+left: 1132px;
+top: 4602px;
+background: #333333;
+border: 1px solid #FFFFFF;    
+}
+
+.отправить{
+width: 89px;
+height: 16px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;  
+z-index: 7;  
+}
+
+.Личный_менеджер{
+position: absolute;
+/* width: 155px; */
+height: 25px;
+left: 592px;
+top: 4553px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+color: #FFFFFF;    
+}
+
+.Доставка{
+position: absolute;
+/* width: 208px; */
+height: 25px;
+left: 592px;
+top: 4594px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+color: #FFFFFF;
+}
+
+.Индивидуальный_дизайн{
+position: absolute;
+/* width: 208px; */
+height: 25px;
+left: 592px;
+top: 4634px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 140%;
+color: #FFFFFF;    
+
+}
+
+.Polygon_1{
+position: absolute;
+width: 10px;
+height: 12px;
+left: 557px;
+top: 4577px; 
+}
+
+.Polygon_2{
+position: absolute;
+width: 19px;
+height: 20px;
+left: 555px;
+top: 4573px;
+}
+
+.Polygon_3{
+position: absolute;
+width: 10px;
+height: 12px;
+left: 557px;
+top: 4619px;
+
+}
+
+.Polygon_4{
+position: absolute;
+width: 19px;
+height: 20px;
+left: 555px;
+top: 4615px;
+
+}
+
+.Polygon_5{
+position: absolute;
+width: 10px;
+height: 12px;
+left: 557px;
+top: 4659px;
+}
+
+.Polygon_6{
+position: absolute;
+width: 19px;
+height: 20px;
+left: 555px;
+top: 4655px;
+
+}
+
